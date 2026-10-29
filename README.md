@@ -1,4 +1,4 @@
-# 🎤 VibeRoast Arena: The AI Rap & Roast Battle Engine
+# 🎤 Vibe Roast : AI Powered Rap & Roast Battle 
 
 > **Track / Theme**: Technology for Fun & Creative AI  
 > **Aesthetic**: Deep Dark Arcade Synthwave (`#0a0a14`, Neon Violet `#a855f7`, Electric Cyan `#06b6d4`, Hot Pink `#f43f5e`, Arcade Gold `#f59e0b`)
